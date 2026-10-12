@@ -1,0 +1,32 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models — DO NOT commit large .pkl files
+# (they're regenerable from training)
+models/*.pkl
+
+# But DO commit metadata/plots
+!models/*.png
+!models/*.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.local
