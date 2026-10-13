@@ -105,7 +105,7 @@ We deploy at **threshold = 0.4**, not 0.5, because **missing a scam (false negat
 ### 1. Clone and set up
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/EleazarFx/malawi-sms-scam-detector.git
 cd malawi-sms-scam-detector
 python -m venv venv
 
