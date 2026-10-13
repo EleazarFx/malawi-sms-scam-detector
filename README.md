@@ -18,19 +18,7 @@ Most of these messages arrive in **Chichewa**, **English**, or **mixed Chichewa-
 
 This project builds one — and trains a supervised classifier on it.
 
----
 
-## Demo
-
-<!-- Screenshot the FastAPI page and drop it here -->
-
-![Demo screenshot](docs/demo.png)
-
-Paste an SMS, get a verdict and a scam probability:
-
-
-
----
 
 ## Dataset
 
